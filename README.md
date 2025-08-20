@@ -328,7 +328,7 @@ For questions about this implementation:
 ---
 
 **Repository**: Part of Humaein AI Full Stack Developer Screening  
-**Author**: [Your Name]  
+**Author**: Isaac Kobby Anni  
 **Date**: August 2025  
 **Status**: Production Ready ✅
 
