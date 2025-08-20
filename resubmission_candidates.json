@@ -1,0 +1,26 @@
+[
+  {
+    "claim_id": "A123",
+    "resubmission_reason": "Missing modifier",
+    "source_system": "alpha",
+    "recommended_changes": "Add the appropriate modifier based on payer rules and resubmit"
+  },
+  {
+    "claim_id": "A124",
+    "resubmission_reason": "Incorrect NPI",
+    "source_system": "alpha",
+    "recommended_changes": "Correct the NPI (rendering and/or billing) and resubmit"
+  },
+  {
+    "claim_id": "A127",
+    "resubmission_reason": "Prior auth required",
+    "source_system": "alpha",
+    "recommended_changes": "Obtain or attach proof of prior authorization and resubmit"
+  },
+  {
+    "claim_id": "B988",
+    "resubmission_reason": "Missing modifier",
+    "source_system": "beta",
+    "recommended_changes": "Add the appropriate modifier based on payer rules and resubmit"
+  }
+]

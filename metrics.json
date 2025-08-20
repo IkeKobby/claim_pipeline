@@ -1,0 +1,15 @@
+{
+  "total_claims_processed": 9,
+  "claims_by_source": {
+    "alpha": 5,
+    "beta": 4
+  },
+  "eligible_for_resubmission": 4,
+  "excluded_reasons_count": {
+    "status_not_denied": 2,
+    "missing_patient_id": 2,
+    "too_recent": 0,
+    "non_retryable_reason": 1,
+    "malformed_record": 0
+  }
+}
